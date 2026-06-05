@@ -1,0 +1,50 @@
+.logo-img {
+  display: block;
+  width: auto;
+  object-fit: contain;
+  flex-shrink: 0;
+  background: transparent;
+}
+
+.logo-img--header {
+  height: 100px;
+}
+
+.logo-img--footer {
+  height: 110px;
+  max-width: 420px;
+}
+
+.logo-img--hero {
+  height: 220px;
+}
+
+@media (max-width: 768px) {
+  .logo-img--header {
+    height: 80px;
+  }
+
+  .logo-img--footer {
+    height: 90px;
+    max-width: 340px;
+  }
+
+  .logo-img--hero {
+    height: 160px;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-img--header {
+    height: 68px;
+  }
+
+  .logo-img--footer {
+    height: 76px;
+    max-width: 280px;
+  }
+
+  .logo-img--hero {
+    height: 140px;
+  }
+}
