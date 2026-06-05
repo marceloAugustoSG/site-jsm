@@ -7,7 +7,7 @@ function Hero() {
       <div className="container hero-inner">
         <div className="hero-content">
           <p className="hero-eyebrow">Bem-vindo à JSM</p>
-          <h1 className="hero-title">Consultoria em Tecnologia</h1>
+          <h1 className="hero-title">JSM — Consultoria em Tecnologia</h1>
           <p className="hero-description">
             A JSM é uma empresa de consultoria de TI fundada por profissionais
             com ampla experiência em desenvolvimento de software. Atuamos no

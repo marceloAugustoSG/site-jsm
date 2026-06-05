@@ -21,7 +21,7 @@ function Header() {
           <span className="logo-tagline">Consultoria em Tecnologia</span>
         </a>
 
-        <nav className={`nav ${menuOpen ? 'nav--open' : ''}`}>
+        <nav className={`nav ${menuOpen ? 'nav--open' : ''}`} aria-label="Menu principal">
           <ul className="nav-list">
             {navLinks.map((link) => (
               <li key={link.href}>
