@@ -12,7 +12,7 @@ function Footer() {
             <Logo variant="footer" />
             <p>
               Consultoria em Tecnologia especializada em desenvolvimento de
-              software, aplicações web e mobile.
+              software, aplicações web, mobile e soluções com Inteligência Artificial.
             </p>
           </div>
           <div className="footer-nav">
@@ -21,6 +21,7 @@ function Footer() {
               <li><a href="#inicio">Início</a></li>
               <li><a href="#sobre">A Empresa</a></li>
               <li><a href="#servicos">Serviços</a></li>
+              <li><a href="#ia">Soluções em IA</a></li>
               <li><a href="#equipe">Equipe</a></li>
               <li><a href="#contato">Contato</a></li>
             </ul>

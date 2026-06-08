@@ -3,6 +3,7 @@ import Header from './components/Header'
 import Hero from './components/Hero'
 import About from './components/About'
 import Services from './components/Services'
+import AiSolutions from './components/AiSolutions'
 import Technologies from './components/Technologies'
 import Team from './components/Team'
 import Contact from './components/Contact'
@@ -17,6 +18,7 @@ function App() {
         <Hero />
         <About />
         <Services />
+        <AiSolutions />
         <Team />
         <Technologies />
         <Contact />

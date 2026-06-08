@@ -11,9 +11,13 @@ const organizationSchema = {
   areaServed: 'BR',
   knowsAbout: [
     'Consultoria de TI',
+    'Inteligência Artificial',
     'Desenvolvimento de software',
     'Aplicações web',
     'Aplicações mobile',
+    'Chatbots corporativos',
+    'Automação com IA',
+    'Integração MCP',
     'React',
     'Next.js',
     'Spring Boot',
